@@ -48,7 +48,7 @@ variable "ec2_subnet_id" {
 variable "ec2_tags" {
   description = "Tags for the EC2 instance"
   default     = {
-    Name = "devops-Server"
+    Name = "devops-Server-india"
   }
 }
 
